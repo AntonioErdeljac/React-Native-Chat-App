@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeRouting'
+
+include ':app'
